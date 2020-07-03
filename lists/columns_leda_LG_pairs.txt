@@ -1,0 +1,13 @@
+Major axis position angle (North Eastwards)
+Mean effective surface brightness
+Total B-magnitude
+Total V-magnitude
+Total K-magnitude
+Effective U-B color
+Effective B-V color
+Apparent maximum rotation velocity of gas
+Apparent maximum rotation velocity of stars
+Maximum rotation velocity corrected for inclination
+Mean Heliocentric radial velocity (cz)
+grp_n
+grp_sigma	
